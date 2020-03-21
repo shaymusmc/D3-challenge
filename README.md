@@ -1,5 +1,7 @@
 # D3 Homework - Data Journalism and D3
 
+https://shaymusmc.github.io/D3-challenge/
+
 ### Core Assignment: D3 Dabbler
 
 You need to create a scatter plot between two of the data variables such as `Healthcare vs. Poverty` or `Smokers vs. Age`.
