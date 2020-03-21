@@ -18,6 +18,4 @@ Using the D3 techniques we taught you in class, create a scatter plot that repre
 
 ## Screenshot
 
-Why make a static graphic when D3 lets you interact with your data?
-
 ![screenshot](Images/screenshot_d3.png)
